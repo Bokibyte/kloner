@@ -1,0 +1,6 @@
+inurl:login
+inurl:signin
+inurl:auth
+intitle:"login"
+intitle:"sign in"
+filetype:html inurl:login
