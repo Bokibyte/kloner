@@ -1,1 +1,1 @@
-{"cmd":"-d https:\/\/jdih.bantulkab.go.id\/login\/loginoperator.html -f report","hosts":[],"shodan":[]}
+{"cmd":"-d https:\/\/app.smartick.id\/ -f report","hosts":[],"shodan":[]}
